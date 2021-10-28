@@ -1,0 +1,11 @@
+Aantekeningen
+
+Klant          one to many ovz.      ID
+RestaurantTafel one to many stl.    
+ReservatieOverzicht
+RestaurantStoelen
+
+
+Medewerker one to many bstl.         ID
+Menu one to many bstl.		     ID
+Bestelling				all ID
